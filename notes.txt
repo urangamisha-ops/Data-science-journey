@@ -3,3 +3,5 @@ This is Day 4 branching practice
 Day 8 - Learning Pull Request
 Fixed issue #2 - added more notes
 Correction: this closes #
+Something halfleft
+Day 12 - Learning git diff and tags
