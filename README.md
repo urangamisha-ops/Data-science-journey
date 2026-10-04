@@ -24,3 +24,12 @@ Made with heart by AMISHA URANG
 - Day 8: Pull Requests
 - Day 9: Issues
 - Day 10: Final polish
+
+##Git Commands Cheat Sheet
+- 'git init' - Start a repo
+- 'git add<file>' - Stage changes
+- 'git comnmit -m "msg"' - Save changes
+- 'git push origin main' - Upload to GitHub
+- 'git pull origin main' - Download from Github
+- 'git branch' - List branches
+- 'git merge <branch>' - Combine branches
